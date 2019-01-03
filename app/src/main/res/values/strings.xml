@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KamusKu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_search">Search</string>
+    <string name="id_eng_sync_status">id_eng_sync_status</string>
+    <string name="eng_id_sync_status">eng_id_sync_status</string>
+
+    <string name="indonesia_sync_status">Preparing Indonesian Data</string>
+    <string name="english_sync_status">Preparing English Data</string>
+    <string name="search_required_error">Search cannot be empty</string>
+
+    <string name="menu_en_to_id">English to Indonesia</string>
+    <string name="menu_id_to_en">Indonesia to English</string>
+    <string name="word_detail_title">Description</string>
+</resources>
